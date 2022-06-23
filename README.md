@@ -1,4 +1,4 @@
-#### <div id="demo" class="big" dir="ltr" lang="en" style="color: red;" tabindex="0" title="Tooltip" contenteditable="true" spellcheck="true" data-htmlcheat="99">**Forest-Cover-Classification**</div>
+# <div id="demo" class="big" dir="ltr" lang="en" style="color: red;" tabindex="0" title="Tooltip" contenteditable="true" spellcheck="true" data-htmlcheat="99">**Forest-Cover-Classification**</div>
 
 Credits: Ineuron Intelligence 
 
